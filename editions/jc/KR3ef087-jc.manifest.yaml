@@ -17,12 +17,12 @@ metadata:
     short: jc
 assets:
   parts:
-  - {seq: 0, filename: KR3ef087_000-jc.yaml, hash: 'sha256:1b04147bd2adb1bdb3d9372fad2c8bb41e4edbae0c00949a92f0c740bb8b8f41'}
+  - {seq: 0, filename: KR3ef087_000-jc.yaml, hash: 'sha256:c29ba5880af133c254cea43f4d9ec69542183b900e174c7c262a75dc8c4a742b'}
   - {seq: 1, filename: KR3ef087_001-jc.yaml, hash: 'sha256:ad80844f74968f24346b9686213cd6c9142543608270375e331bea801be19228'}
   - {seq: 2, filename: KR3ef087_002-jc.yaml, hash: 'sha256:5ad740ab252d8f90d2f2fda4a0759c2e4cf8ac8ab793ec56203e8a728f58c90e'}
   - {seq: 3, filename: KR3ef087_003-jc.yaml, hash: 'sha256:601f39e58ee21e15e16ad176d69d62399ce556d5c3d866c20d52b6852298b45f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ef087_000-jc.markers.yaml, hash: 'sha256:414d1ed300c85d96befc6be0ccd7c1cbee2a56408e80a333f482799d38942b51'}
+  - {seq: 0, role: markers, filename: assets/KR3ef087_000-jc.markers.yaml, hash: 'sha256:04202b55859a7d849522c2bbe03bbe670cefca0a235b936425e2b031eeac7e07'}
   - {seq: 1, role: markers, filename: assets/KR3ef087_001-jc.markers.yaml, hash: 'sha256:18480d9d16226fc0631fae18a8353c7f73d82e04230b968a839be67496ec5adb'}
   - {seq: 2, role: markers, filename: assets/KR3ef087_002-jc.markers.yaml, hash: 'sha256:69eba44878f8c040a00f0da76ba575e35ff82cc1241eb838ab820dabdf112ee6'}
   - {seq: 3, role: markers, filename: assets/KR3ef087_003-jc.markers.yaml, hash: 'sha256:8189b854df4d5ae36215139b3a332fff28b543ac8a5eac36804d8db0506d1b67'}
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef087_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 609
   label: 余序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3ef087_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 609
     - 1171
   label: 自序
@@ -327,4 +327,4 @@ table_of_contents:
   label: 果實菜谷禁忌並治第二十五
   type: section
   level: 2
-hash: sha256:c74c8e9a1ccf1d777b3c3f580bf3484d52170784cf734fb15b26cf1912cabc8d
+hash: sha256:423739779b2b68fad776526a6e49bb3c1aea7465400fb4734d1372ce727cebf9
